@@ -1,0 +1,2 @@
+# SandelininkaiApp
+Projektinis darbas
